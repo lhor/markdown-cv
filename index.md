@@ -3,7 +3,7 @@ Environmental Engineering, Ph.D.
 
 <div id="webaddress">
 <a href="lorellan@mpi-bremen.de">lorellan@mpi-bremen.de</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My personal page</a>
+| <a href="https://lhor.github.io/markdown-cv/">My personal page</a>
 </div>
 
 
