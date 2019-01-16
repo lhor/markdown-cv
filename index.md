@@ -1,3 +1,7 @@
+---
+layout: cv
+title: Coto's CV
+---
 # Luis H. Orellana R
 Environmental Engineering, Ph.D.
 
