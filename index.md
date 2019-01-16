@@ -46,10 +46,11 @@ __Universidad de Chile, Santiago, Chile.__
 
 ### Journals
 
-`2018`
+`2018` 
 Viver T, Orellana LH, Gonzalez-Torres P, Diaz S, Urdiain M, Farias ME, et al. Genomic comparison between members of the Salinibacteraceae family, and description of a new species of Salinibacter (Salinibacter altiplanensis sp. nov.) isolated from high altitude hypersaline environments of the Argentinian Altiplano. Syst Appl Microbiol. 2018;41(3):198-212.  
 
 Cardenas E, Orellana LH, Konstantinidis KT, Mohn WW. Effects of timber harvesting on the genetic potential for carbon and nitrogen cycling in five North American forest ecozones. Sci Rep. 2018;8(1):3142.   
+
 `2017`
 Viver T, Orellana LH, Hatt JK, Urdiain M, Diaz S, Richter M, et al. The low diverse gastric microbiome of the jellyfish Cotylorhiza tuberculata is dominated by four novel taxa. Environ Microbiol. 2017;19(8):3039-58.   
 
