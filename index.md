@@ -10,12 +10,6 @@ Environmental Engineering, Ph.D.
 | <a href="https://lhor.github.io/markdown-cv/">My personal page</a>
 </div>
 
-
-## Objective
-
-I am interested in studying the importance of microorganisms for environmental processes and how they shape
-and maintain our exceptional biosphere by developing and using genomic and molecular biological approaches.
-
 ### Research interests
 
 Bioinformatics, Microbes, Microbial Ecology.
@@ -28,7 +22,7 @@ __Georgia Institute of Technology, Atlanta, GA, USA__
 `August 2009 - July 2011` MsC. Microbiology
 __Universidad de Chile, Santiago, Chile__
 
-`March 2004 - July 2009` Professional degree in Biotechnology Engineering 
+`March 2004 - July 2009` Professional degree in Biotechnology Engineering
 __Universidad de Chile, Santiago, Chile.__
 
 ## Awards
@@ -46,7 +40,7 @@ __Universidad de Chile, Santiago, Chile.__
 
 ### Journals
 
-`2018` 
+`2018`
 Viver T, Orellana LH, Gonzalez-Torres P, Diaz S, Urdiain M, Farias ME, et al. Genomic comparison between members of the Salinibacteraceae family, and description of a new species of Salinibacter (Salinibacter altiplanensis sp. nov.) isolated from high altitude hypersaline environments of the Argentinian Altiplano. Syst Appl Microbiol. 2018;41(3):198-212.  
 
 Cardenas E, Orellana LH, Konstantinidis KT, Mohn WW. Effects of timber harvesting on the genetic potential for carbon and nitrogen cycling in five North American forest ecozones. Sci Rep. 2018;8(1):3142.   
