@@ -32,8 +32,6 @@ __Universidad de Chile, Santiago, Chile.__
 `2011` Graduated with Maximal distinction from M.S. Microbiology (equivalent to summa cum laude).  
 `2009` Graduated with Maximal distinction from Molecular Biotechnology Engineering (equivalent to summa cum laude).  
 
-
-
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=C2r2xq0AAAAJ) -->
