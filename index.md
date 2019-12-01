@@ -40,6 +40,13 @@ __Universidad de Chile, Santiago, Chile.__
 
 ### Journals
 
+`2019`
+Orellana LH, Hatt, JK, Iyer R, Chourey K, Hettich RL, Spain JC, Yang WH, Chee-Sanford JC, Sanford RA, Löffler FE, Konstantinidis KT. Comparing DNA, RNA and protein levels for measuring microbial dynamics in soil microcosms amended with nitrogen fertilizer. Sci Rep. 2019;9:17630
+
+Viver, T., Orellana LH, Díaz S, Urdiain M, Ramos‐Barbero MD, González‐Pastor, JE, Oren A, Hatt JK, Amann RI, Antón J, Konstantinidis KT, Roselló-Mora R. Predominance of deterministic microbial community dynamics in salterns exposed to different light intensities. Environmental microbiology. 2019; 21(11): 4300-4315.
+
+Orellana LH, Francis TB, Krüger K, Teeling H, Müller MC, Fuchs BM, Konstantinidis KT, Amann RI. Niche differentiation among annually recurrent coastal Marine Group II Euryarchaeota. ISME J. 2019;13:3024-3036
+
 `2018`
 Viver T, Orellana LH, Gonzalez-Torres P, Diaz S, Urdiain M, Farias ME, et al. Genomic comparison between members of the Salinibacteraceae family, and description of a new species of Salinibacter (Salinibacter altiplanensis sp. nov.) isolated from high altitude hypersaline environments of the Argentinian Altiplano. Syst Appl Microbiol. 2018;41(3):198-212.  
 
