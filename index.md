@@ -6,7 +6,7 @@ title: Coto's CV
 Environmental Engineering, Ph.D.
 
 <div id="webaddress">
-<a href="lorellan@mpi-bremen.de">lorellan@mpi-bremen.de</a>
+<a href="lorellar@gmail.com">lorellan@mpi-bremen.de</a>
 | <a href="https://lhor.github.io/markdown-cv/">My personal page</a>
 </div>
 
