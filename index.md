@@ -38,12 +38,12 @@ __Universidad de Chile, Santiago, Chile.__
 
 ### Journals
 `2020`
-Grieb, A, Francis TB, Krüger, K, Orellana, LH, Amann, R, Fuchs, BM, Candidatus Abditibacter, a novel genus within the Cryomorphaceae, thriving in the North Sea. Syst Appl Microbiol. 2020; 43.
-Suttner, B, Johnston, ER, Orellana, LH, Rodriguez-R, LM, Hatt, JK, Carychao, D, Carter, MQ, Cooley, MB, Konstantinidis, KT. Metagenomics as a public health risk assessment tool in a study of natural creek sediments influenced by agricultural and livestock runoff: potential and limitations. Environ Microbiol. 2020;86(6)
+Grieb A, Francis TB, Krüger K, Orellana LH, Amann R, Fuchs BM. Candidatus Abditibacter, a novel genus within the Cryomorphaceae, thriving in the North Sea. Syst Appl Microbiol. 2020; 43.
+Suttner B, Johnston ER, Orellana LH, Rodriguez-R LM, Hatt JK, Carychao D, Carter MQ, Cooley MB, Konstantinidis KT. Metagenomics as a public health risk assessment tool in a study of natural creek sediments influenced by agricultural and livestock runoff: potential and limitations. Environ Microbiol. 2020;86(6)
 `2019`
 Orellana LH, Hatt, JK, Iyer R, Chourey K, Hettich RL, Spain JC, Yang WH, Chee-Sanford JC, Sanford RA, Löffler FE, Konstantinidis KT. Comparing DNA, RNA and protein levels for measuring microbial dynamics in soil microcosms amended with nitrogen fertilizer. Sci Rep. 2019;9:17630
 
-Viver, T., Orellana LH, Díaz S, Urdiain M, Ramos‐Barbero MD, González‐Pastor, JE, Oren A, Hatt JK, Amann RI, Antón J, Konstantinidis KT, Roselló-Mora R. Predominance of deterministic microbial community dynamics in salterns exposed to different light intensities. Environmental microbiology. 2019; 21(11): 4300-4315.
+Viver T., Orellana LH, Díaz S, Urdiain M, Ramos‐Barbero MD, González‐Pastor, JE, Oren A, Hatt JK, Amann RI, Antón J, Konstantinidis KT, Roselló-Mora R. Predominance of deterministic microbial community dynamics in salterns exposed to different light intensities. Environmental microbiology. 2019; 21(11): 4300-4315.
 
 Orellana LH, Francis TB, Krüger K, Teeling H, Müller MC, Fuchs BM, Konstantinidis KT, Amann RI. Niche differentiation among annually recurrent coastal Marine Group II Euryarchaeota. ISME J. 2019;13:3024-3036
 
