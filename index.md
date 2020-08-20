@@ -41,6 +41,7 @@ __Universidad de Chile, Santiago, Chile.__
 Grieb A, Francis TB, Krüger K, Orellana LH, Amann R, Fuchs BM. Candidatus Abditibacter, a novel genus within the Cryomorphaceae, thriving in the North Sea. Syst Appl Microbiol. 2020; 43.
 
 Suttner B, Johnston ER, Orellana LH, Rodriguez-R LM, Hatt JK, Carychao D, Carter MQ, Cooley MB, Konstantinidis KT. Metagenomics as a public health risk assessment tool in a study of natural creek sediments influenced by agricultural and livestock runoff: potential and limitations. Environ Microbiol. 2020;86(6)
+
 `2019`
 Orellana LH, Hatt, JK, Iyer R, Chourey K, Hettich RL, Spain JC, Yang WH, Chee-Sanford JC, Sanford RA, Löffler FE, Konstantinidis KT. Comparing DNA, RNA and protein levels for measuring microbial dynamics in soil microcosms amended with nitrogen fertilizer. Sci Rep. 2019;9:17630
 
