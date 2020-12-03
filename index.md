@@ -14,6 +14,8 @@ Environmental Engineering, Ph.D.
 
 Bioinformatics, Microbes, Microbial Ecology.
 
+## Current position
+Project leader, Department of Molecular Ecology, Max Planck Institute for Marine Microbiology
 
 ## Education
 `August 2011 - August 2017` Ph.D. Environmental Engineering
